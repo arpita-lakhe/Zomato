@@ -1,3 +1,4 @@
+<img width="1373" height="770" alt="531344638-02e028c8-44d8-4655-89c7-d7660e9b4dbf" src="https://github.com/user-attachments/assets/6ab85920-d078-4c99-a8e1-ab88cbcabf99" />
 # Zomato Restaurant Analytics Dashboard 🍽️📊
 
 
